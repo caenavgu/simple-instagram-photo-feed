@@ -1,0 +1,89 @@
+/* ID-----------*/
+#titleBar{
+    background-color: white;
+    height: 80px;
+    overflow: hidden;
+    border-bottom: 1px;
+    border-color: #edeeee;
+    background: white;
+    margin-bottom: 60px;
+    margin: 0 auto;
+}
+
+#content{
+    background: #eaeaea;
+}
+
+#post{
+    margin: 0 auto;
+    width: 500px; 
+}
+
+#titlePost{
+    background-color: white;
+    display: inline-block;
+    width: 598px;
+    height: 50px;
+    margin-top: 60px !important;
+    margin: auto;
+    border-bottom: 1px solid grey;
+}
+
+#name{
+    font-size: 18px !important;
+    font-weight: bold;
+    display: inline-block;
+    padding-left: 18px;
+}
+
+#number{
+    float: right;
+    padding-top: 8px;
+    padding-right: 16px;
+    color: #a5a7aa;
+    text-align: left;
+    
+}
+
+#comentArea{
+    background-color: white;
+    width: 551px;
+    height: 50px;
+    text-align: left;
+    padding: 5px 24px;
+    padding-bottom: 16px !important;
+    border-top: 1px solid grey;
+}
+
+#comentPhoto{
+    font-family: Helvetica;
+    font-weight: 100;
+}
+
+/* CLASS--------*/
+/* TAG----------*/
+body{
+    font-family: Helvetica;
+    font-weight: 100;
+    background: #eaeaea;
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    display: block;
+    font-size: 2em;
+    font-weight: bold;
+    margin: 24px auto;
+    width: 500px;
+}
+
+div{
+    display: block;
+}
+
+img{
+    max-width: 598px;
+    height: auto;
+}
+
